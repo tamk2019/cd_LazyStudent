@@ -39,3 +39,7 @@ This is easier than typing the full name of the user's home directory, for insta
 When followed by a space and then a hyphen, cd both returns the user to the previous current directory and reports on a new line the absolute pathname of that directory. This can further enhance the already convenient toggling capability of cd. Toggling is particularly convenient when at least one of the two directories has a long absolute pathname, such as /usr/local/share/man/man2.
 
 cd has only two options, and neither of them are commonly used. The -P option instructs cd to use the physical directory structure instead of following symbolic links. The -L option forces symbolic links to be followed. 
+
+
+Created May 25, 2006. Updated August 11, 2007.
+Copyright © 2006 - 2007. The Linux Information Project. All Rights Reserved.
